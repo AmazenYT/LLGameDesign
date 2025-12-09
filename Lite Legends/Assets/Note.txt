@@ -1,0 +1,1 @@
+TU Dublin LL Game Demo Project. Models used in this project are free assets available from the Unity Asset Store. To minimize the project size, all unnecessary files were deleted from the assets. If you wish to use any in your own projects, please download the originals from the Asset Store. 

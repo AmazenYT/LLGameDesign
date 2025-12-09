@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4af8776aeb7af3e46bb46a35d127f2f0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252728
+  packageName: Go Systems Third Person Controller Template
+  packageVersion: 1.5.2a
+  assetPath: Assets/Go Systems/GoCharacterController/script/Editor/Resources/call-of-ops-duty/1001fonts-call-of-ops-duty-eula.txt
+  uploadId: 789062

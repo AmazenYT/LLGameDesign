@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cddcdec1faf210443a41fce1d51396dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252728
+  packageName: Go Systems Third Person Controller Template
+  packageVersion: 1.5.2a
+  assetPath: Assets/Go Systems/GoCharacterController/script/Editor/Resources/MoveMateral.physicMaterial
+  uploadId: 789062

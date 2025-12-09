@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4832b684a8dacc04a93bdcefc01f5a70
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252728
+  packageName: Go Systems Third Person Controller Template
+  packageVersion: 1.5.2a
+  assetPath: Assets/Go Systems/GoCharacterController/script/Editor/Resources/JumpMateral.physicMaterial
+  uploadId: 789062
